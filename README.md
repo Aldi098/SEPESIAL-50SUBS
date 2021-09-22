@@ -12,6 +12,10 @@
 
 ```git clone https://github.com/Aldi098/SEPESIAL-50SUBS```
 
+```cd SEPESIAL-50SUBS```
+
+```python2 main.py```
+
 # Thanks you
 ```
 - Allah SWT
